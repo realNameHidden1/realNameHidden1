@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **Spring Boot**
 
 
-- 📫 Subscribe to my youtube channel : https://www.youtube.com/@realNameHiddenn
  
 [![@realnamehidden's Holopin board](https://holopin.me/realnamehidden)](https://holopin.io/@realnamehidden)
 
